@@ -113,7 +113,7 @@ Farmitics/
 
 ## 🌐 Deployment
 
-The project is deployed at **[Farmitics Live URL](https://farmitics.vercel.app/)** (replace with the actual URL).
+The project is deployed at **[Farmitics Live URL](https://farmitics.vercel.app/)**.
 
 ---
 
